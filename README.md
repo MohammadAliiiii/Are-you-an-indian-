@@ -3,7 +3,7 @@
 <p align="center">
   <strong>A single-page web app that always says "YES"—no matter what you ask.</strong><br>
   Built for fun using only HTML, CSS, and JavaScript.<br><br>
-  🔗 <a href="https://mohammadaliiiii.github.io/Are-you-an-indian-/">Live Demo</a>
+  🔗 <a href="https://mohammadaliiiii.github.io/Are-you-an-indian/">Live Demo</a>
 </p>
 
 ---
